@@ -1,0 +1,2 @@
+wizadylan@gmail.com	apple	(admin)
+apple@apple.com		apple	(non admin)
